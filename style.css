@@ -1,0 +1,21 @@
+.home{
+    background-image: url('tom-morel-ktVazL5c7FM-unsplash.jpg');
+    height: 100vh;
+    background-size: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text-1{
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 0 0 10px red;
+}
+.text-2{
+    padding-left: 10px;
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    text-shadow: 0 0 10px rgb(191, 255, 0);
+}
